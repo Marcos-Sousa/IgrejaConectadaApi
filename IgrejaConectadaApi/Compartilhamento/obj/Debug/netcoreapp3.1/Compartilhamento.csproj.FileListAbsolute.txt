@@ -1,0 +1,8 @@
+C:\Users\Marcos S L\Desktop\IgrejaConectada\Compartilhamento\bin\Debug\netcoreapp3.1\Compartilhamento.deps.json
+C:\Users\Marcos S L\Desktop\IgrejaConectada\Compartilhamento\bin\Debug\netcoreapp3.1\Compartilhamento.dll
+C:\Users\Marcos S L\Desktop\IgrejaConectada\Compartilhamento\bin\Debug\netcoreapp3.1\Compartilhamento.pdb
+C:\Users\Marcos S L\Desktop\IgrejaConectada\Compartilhamento\obj\Debug\netcoreapp3.1\Compartilhamento.csprojAssemblyReference.cache
+C:\Users\Marcos S L\Desktop\IgrejaConectada\Compartilhamento\obj\Debug\netcoreapp3.1\Compartilhamento.AssemblyInfoInputs.cache
+C:\Users\Marcos S L\Desktop\IgrejaConectada\Compartilhamento\obj\Debug\netcoreapp3.1\Compartilhamento.AssemblyInfo.cs
+C:\Users\Marcos S L\Desktop\IgrejaConectada\Compartilhamento\obj\Debug\netcoreapp3.1\Compartilhamento.dll
+C:\Users\Marcos S L\Desktop\IgrejaConectada\Compartilhamento\obj\Debug\netcoreapp3.1\Compartilhamento.pdb

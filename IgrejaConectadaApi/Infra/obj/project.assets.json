@@ -76,11 +76,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Marcos S L\\Desktop\\IgrejaConectada\\Infra\\Infra.csproj",
+      "projectUniqueName": "C:\\Users\\Marcos S L\\Desktop\\Igreja_Conectada\\Api\\IgrejaConectadaApi\\Infra\\Infra.csproj",
       "projectName": "Infra",
-      "projectPath": "C:\\Users\\Marcos S L\\Desktop\\IgrejaConectada\\Infra\\Infra.csproj",
+      "projectPath": "C:\\Users\\Marcos S L\\Desktop\\Igreja_Conectada\\Api\\IgrejaConectadaApi\\Infra\\Infra.csproj",
       "packagesPath": "C:\\Users\\Marcos S L\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Marcos S L\\Desktop\\IgrejaConectada\\Infra\\obj\\",
+      "outputPath": "C:\\Users\\Marcos S L\\Desktop\\Igreja_Conectada\\Api\\IgrejaConectadaApi\\Infra\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -99,8 +99,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Marcos S L\\Desktop\\IgrejaConectada\\Dominio\\Dominio.csproj": {
-              "projectPath": "C:\\Users\\Marcos S L\\Desktop\\IgrejaConectada\\Dominio\\Dominio.csproj"
+            "C:\\Users\\Marcos S L\\Desktop\\Igreja_Conectada\\Api\\IgrejaConectadaApi\\Dominio\\Dominio.csproj": {
+              "projectPath": "C:\\Users\\Marcos S L\\Desktop\\Igreja_Conectada\\Api\\IgrejaConectadaApi\\Dominio\\Dominio.csproj"
             }
           }
         }

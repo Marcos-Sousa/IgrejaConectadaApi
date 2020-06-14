@@ -39,11 +39,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Marcos S L\\Desktop\\IgrejaConectada\\Compartilhamento\\Compartilhamento.csproj",
+      "projectUniqueName": "C:\\Users\\Marcos S L\\Desktop\\Igreja_Conectada\\Api\\IgrejaConectadaApi\\Compartilhamento\\Compartilhamento.csproj",
       "projectName": "Compartilhamento",
-      "projectPath": "C:\\Users\\Marcos S L\\Desktop\\IgrejaConectada\\Compartilhamento\\Compartilhamento.csproj",
+      "projectPath": "C:\\Users\\Marcos S L\\Desktop\\Igreja_Conectada\\Api\\IgrejaConectadaApi\\Compartilhamento\\Compartilhamento.csproj",
       "packagesPath": "C:\\Users\\Marcos S L\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Marcos S L\\Desktop\\IgrejaConectada\\Compartilhamento\\obj\\",
+      "outputPath": "C:\\Users\\Marcos S L\\Desktop\\Igreja_Conectada\\Api\\IgrejaConectadaApi\\Compartilhamento\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

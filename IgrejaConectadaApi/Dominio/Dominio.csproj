@@ -8,7 +8,6 @@
     <Folder Include="Comandos\ComandosEntrada\" />
     <Folder Include="Comandos\ComandosSaida\" />
     <Folder Include="Manipuladores\" />
-    <Folder Include="Repositorios\" />
   </ItemGroup>
 
   <ItemGroup>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="Api20200619113934" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\Marcos\ S\ L\\Desktop\\Igreja_Conectada\\Api\\IgrejaConectadaApi\\Api\\obj\\Release\\netcoreapp3\.1\\win-x64\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>

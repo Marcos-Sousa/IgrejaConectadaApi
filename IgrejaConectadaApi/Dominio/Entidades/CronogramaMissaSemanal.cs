@@ -31,6 +31,5 @@ namespace Dominio.Entidades
         public DateTime Data { get; private set; }
         public TimeSpan Horario_Inicio { get; private set; }
         public TimeSpan Horario_Termino { get; private set; }
-
     }
 }

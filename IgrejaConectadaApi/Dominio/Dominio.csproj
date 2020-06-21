@@ -5,8 +5,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Comandos\ComandosEntrada\" />
-    <Folder Include="Comandos\ComandosSaida\" />
     <Folder Include="Manipuladores\" />
   </ItemGroup>
 

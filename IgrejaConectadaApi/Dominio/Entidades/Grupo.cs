@@ -3,7 +3,7 @@ using System;
 
 namespace Dominio.Entidades
 {
-    public class Grupo: Entidade
+    public class Grupo : Entidade
     {
         public Grupo()
         {
@@ -25,6 +25,5 @@ namespace Dominio.Entidades
         public TimeSpan Horario_Termino { get; private set; }
         public string Coordenador { get; private set; }
         public string Descricao { get; private set; }
-
     }
 }

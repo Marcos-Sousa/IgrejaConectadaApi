@@ -7,10 +7,10 @@ namespace Dominio.Repositorios
 {
     public interface IIgrejaRepositorio
     {
-        Task Cadastrar(Igreja igreja);
-        Task Atualizar(Igreja igreja);
-        Task Deletar(Guid Id);
+        void Cadastrar(Igreja igreja);
+        void Atualizar(Igreja igreja);
+        void Deletar(Guid Id);
         Task<Igreja> BuscarPorId(Guid Id);
-        Task<IEnumerable<Igreja>> BuscarTodos(Guid Id);
+        Task<IEnumerable<Igreja>> BuscarTodos();
     }
 }

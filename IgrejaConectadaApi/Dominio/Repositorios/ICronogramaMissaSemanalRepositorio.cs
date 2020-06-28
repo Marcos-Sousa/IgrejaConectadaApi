@@ -7,9 +7,9 @@ namespace Dominio.Repositorios
 {
     public  interface ICronogramaMissaSemanalRepositorio
     {
-        Task Cadastrar(CronogramaMissaSemanal cronogramaMissaSemanal);
-        Task Atualizar(CronogramaMissaSemanal cronogramaMissaSemanal);
-        Task Deletar(Guid Id);
+        void Cadastrar(CronogramaMissaSemanal cronogramaMissaSemanal);
+        void Atualizar(CronogramaMissaSemanal cronogramaMissaSemanal);
+        void Deletar(Guid Id);
         Task<Igreja> BuscarPorId(Guid Id);
         Task<IEnumerable<CronogramaMissaSemanal>> BuscarTodos(Guid Id);
     }

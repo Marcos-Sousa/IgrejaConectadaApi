@@ -33,7 +33,14 @@ C:\Users\Marcos S L\Desktop\Igreja_Conectada\Api\IgrejaConectadaApi\Api\bin\Debu
 C:\Users\Marcos S L\Desktop\Igreja_Conectada\Api\IgrejaConectadaApi\Api\bin\Debug\netcoreapp3.1\Api.runtimeconfig.dev.json
 C:\Users\Marcos S L\Desktop\Igreja_Conectada\Api\IgrejaConectadaApi\Api\bin\Debug\netcoreapp3.1\Api.dll
 C:\Users\Marcos S L\Desktop\Igreja_Conectada\Api\IgrejaConectadaApi\Api\bin\Debug\netcoreapp3.1\Api.pdb
+C:\Users\Marcos S L\Desktop\Igreja_Conectada\Api\IgrejaConectadaApi\Api\bin\Debug\netcoreapp3.1\Dapper.dll
 C:\Users\Marcos S L\Desktop\Igreja_Conectada\Api\IgrejaConectadaApi\Api\bin\Debug\netcoreapp3.1\Flunt.dll
+C:\Users\Marcos S L\Desktop\Igreja_Conectada\Api\IgrejaConectadaApi\Api\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Marcos S L\Desktop\Igreja_Conectada\Api\IgrejaConectadaApi\Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Marcos S L\Desktop\Igreja_Conectada\Api\IgrejaConectadaApi\Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Marcos S L\Desktop\Igreja_Conectada\Api\IgrejaConectadaApi\Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Marcos S L\Desktop\Igreja_Conectada\Api\IgrejaConectadaApi\Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Marcos S L\Desktop\Igreja_Conectada\Api\IgrejaConectadaApi\Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
 C:\Users\Marcos S L\Desktop\Igreja_Conectada\Api\IgrejaConectadaApi\Api\bin\Debug\netcoreapp3.1\Compartilhamento.dll
 C:\Users\Marcos S L\Desktop\Igreja_Conectada\Api\IgrejaConectadaApi\Api\bin\Debug\netcoreapp3.1\Dominio.dll
 C:\Users\Marcos S L\Desktop\Igreja_Conectada\Api\IgrejaConectadaApi\Api\bin\Debug\netcoreapp3.1\Infra.dll
@@ -50,10 +57,3 @@ C:\Users\Marcos S L\Desktop\Igreja_Conectada\Api\IgrejaConectadaApi\Api\obj\Debu
 C:\Users\Marcos S L\Desktop\Igreja_Conectada\Api\IgrejaConectadaApi\Api\obj\Debug\netcoreapp3.1\Api.csproj.CopyComplete
 C:\Users\Marcos S L\Desktop\Igreja_Conectada\Api\IgrejaConectadaApi\Api\obj\Debug\netcoreapp3.1\Api.dll
 C:\Users\Marcos S L\Desktop\Igreja_Conectada\Api\IgrejaConectadaApi\Api\obj\Debug\netcoreapp3.1\Api.pdb
-C:\Users\Marcos S L\Desktop\Igreja_Conectada\Api\IgrejaConectadaApi\Api\bin\Debug\netcoreapp3.1\Dapper.dll
-C:\Users\Marcos S L\Desktop\Igreja_Conectada\Api\IgrejaConectadaApi\Api\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
-C:\Users\Marcos S L\Desktop\Igreja_Conectada\Api\IgrejaConectadaApi\Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
-C:\Users\Marcos S L\Desktop\Igreja_Conectada\Api\IgrejaConectadaApi\Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
-C:\Users\Marcos S L\Desktop\Igreja_Conectada\Api\IgrejaConectadaApi\Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
-C:\Users\Marcos S L\Desktop\Igreja_Conectada\Api\IgrejaConectadaApi\Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
-C:\Users\Marcos S L\Desktop\Igreja_Conectada\Api\IgrejaConectadaApi\Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

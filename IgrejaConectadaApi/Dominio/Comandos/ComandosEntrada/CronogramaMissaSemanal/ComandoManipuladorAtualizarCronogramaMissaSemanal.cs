@@ -1,11 +1,9 @@
 ﻿using Compartilhamento.Comando;
 using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace Dominio.Comandos.ComandosEntrada.CronogramaMissaSemanal
 {
- public   class ComandoManipuladorAtualizarCronogramaMissaSemanal : IComandoDeEntrada
+    public   class ComandoManipuladorAtualizarCronogramaMissaSemanal : IComandoDeEntrada
     {
         public Guid Id { get; set; }
         public Guid Id_Igreja { get; set; }

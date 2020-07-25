@@ -53,7 +53,7 @@ namespace Infra.Repositorios
 
         }
 
-        public async Task<Igreja> BuscarPorId(Guid Id)
+        public async Task<CronogramaMissaSemanal> BuscarPorId(Guid Id)
         {
             var sql = "SELECT * FROM CronogramaMissaSemanal WHERE Id = @Id";
             using (var db = _db.GetConexao())

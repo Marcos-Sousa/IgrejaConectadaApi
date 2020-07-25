@@ -13,3 +13,4 @@ namespace Compartilhamento.Entidade
         public Guid Id { get; set; }
     }
 }
+    

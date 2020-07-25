@@ -41,7 +41,7 @@ namespace Infra.Repositorios
             });
         }
 
-        public async Task<Igreja> BuscarPorId(Guid Id)
+        public async Task<Cidade> BuscarPorId(Guid Id)
         {
             var sql = "SELECT * FROM Cidade WHERE Id  = @Id";
             using (var db = _db.GetConexao())

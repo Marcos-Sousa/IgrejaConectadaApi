@@ -5,6 +5,7 @@ namespace Dominio.Comandos.ComandosEntrada.Cidade
 {
     public class ComandoManipuladorAtualizarCidade : IComandoDeEntrada
     {
+        public Guid Id { get; set; }
         public Guid Id_Estado { get; set; }
         public string Nome { get; set; }
     }

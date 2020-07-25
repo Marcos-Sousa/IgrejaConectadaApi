@@ -10,7 +10,7 @@ namespace Dominio.Repositorios
         void Cadastrar(CronogramaMissaSemanal cronogramaMissaSemanal);
         void Atualizar(CronogramaMissaSemanal cronogramaMissaSemanal);
         void Deletar(Guid Id);
-        Task<Igreja> BuscarPorId(Guid Id);
+        Task<CronogramaMissaSemanal> BuscarPorId(Guid Id);
         Task<IEnumerable<CronogramaMissaSemanal>> BuscarTodos(Guid Id);
     }
 }

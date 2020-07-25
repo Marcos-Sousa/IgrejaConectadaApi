@@ -3,7 +3,7 @@ using System;
 
 namespace Dominio.Entidades
 {
-    public class Igreja: Entidade
+    public class Igreja : Entidade
     {
         public Igreja()
         {
@@ -21,7 +21,17 @@ namespace Dominio.Entidades
             Complemento = complemento;
         }
 
-        public void Atualuzar(string nome, string imagem, string rua, string cEP, string bairro, int numero, string complemento)
+
+        public Guid Id_Cidade { get; private set; }
+        public string Nome { get; private set; }
+        public string Imagem { get; private set; }
+        public string Rua { get; private set; }
+        public string CEP { get; private set; }
+        public string Bairro { get; private set; }
+        public int Numero { get; private set; }
+        public string Complemento { get; private set; }
+
+        public void Atualizar(string nome, string imagem, string rua, string cEP, string bairro, int numero, string complemento)
         {
             Nome = nome;
             Imagem = imagem;
@@ -32,13 +42,5 @@ namespace Dominio.Entidades
             Complemento = complemento;
         }
 
-        public Guid Id_Cidade { get; private set; }
-        public string Nome { get; private set; }
-        public string Imagem { get; private set; }
-        public string Rua { get; private set; }
-        public string CEP { get; private set; }
-        public string Bairro { get; private set; }
-        public int Numero { get; private set; }
-        public string Complemento { get; private set; }
     }
 }
